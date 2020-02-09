@@ -1,0 +1,11 @@
+@media screen and (max-width: 800px){
+  .block{
+    box-shadow: -1px -2px 18px 11px rgba(216,71,128,1);
+
+  }
+  .section-3{
+    background:linear-gradient(280deg,#E2A0C3,#AD3AE2,#D84780)
+
+  }
+
+}
